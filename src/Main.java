@@ -6,6 +6,6 @@ public class Main {
     // Member1.main(args);
     // Member2.main(args);
     // Member3.main(args);
-    // Member4.main(args);
+    Member4.main(args);
   }
 }
