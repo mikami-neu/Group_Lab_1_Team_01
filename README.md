@@ -1,6 +1,6 @@
 ## Our members
 
-- Member1: @ashishb321
-- Member2: @fred-triest
-- Member3: @nelsonkin
+- Member1: @jennconspiracy
+- Member2: @jwebbnova2026
+- Member3: @fabiorollin
 - Member4: @mikami-neu
